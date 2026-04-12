@@ -2,4 +2,4 @@
 
 link :
 
-pizzadon.netlify.app
+https://pizzadon.netlify.app/
